@@ -1,8 +1,5 @@
 # PrestaShop Classic Theme
 
-The Classic Theme is the default Theme for Prestashop 1.7 and onwards.
-It is built upon the Starter Theme which is not maintained anymore.
-
 You need to go to the `_dev` folder to manage your asset sources then run following commands :
 
 **Watch changes** - _edit your file and reload your browser : tadaaa !!_<br>
